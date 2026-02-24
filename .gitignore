@@ -1,1 +1,5 @@
 venv/
+_work/
+__pycache__/
+zip/*.zip
+PLANTILLA/*xlsm
